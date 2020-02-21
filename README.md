@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-Tac-Toe
 
 This is a game of tic tac toe.
 You can:
@@ -9,5 +9,5 @@ You can:
 
 --------------------------------------------------------
 
-# Link To Website
+# Link to Website
 https://ramteen85.github.io/tic-tac-toe/
